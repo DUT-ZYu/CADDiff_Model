@@ -1,4 +1,4 @@
-# CPD-MMRS
+# CADDiff
 Official PyTorch implementation of "CADDiff: Calibration-Enhanced Attention Distillation for Portrait Stylization"
 <div align="center">
 
